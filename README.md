@@ -1,2 +1,20 @@
 # html-css-frontend-responsive-website-amazon-clone-web-development
-Responsive Amazon Clone built using HTML and CSS.
+# Amazon Clone Website
+
+This is a responsive Amazon clone website built using HTML and CSS.
+
+## Live Demo
+https://amazonclonebyrajbahadur.netlify.app/
+
+## Features
+- Responsive Navbar
+- Product Sections
+- Amazon Style Footer
+- Mobile & Tablet Responsive Design
+
+## Technologies Used
+- HTML5
+- CSS3
+
+## Author
+Raj Bahadur
